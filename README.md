@@ -1,10 +1,10 @@
-![](https://thepracticaldev.s3.amazonaws.com/i/u7p8g6e1ysxbp9lpmhx8.jpg)
-
 Salut, comme je l'ai dit dans l'article précédent, je suis en train d'apprendre à écrire en français, je vais donc essayer d'écrire sur la technologie, un moyen très simple de pratiquer mon écriture en français.
 
 Et, aujourd'hui je vais parler sur comment faire um simple communication des Composants parent à enfant et des Composants enfants à parent e en train de usage de ReactJs.
 
 Cette application fait une allusion a une list d'acheter, une Panier et ses articles pour ajouter à Panier.
+
+il est disponible dans [https://dev.to/geltoncruz](https://dev.to/geltoncruz/communcation-des-composants-avec-reactjs-3pbp)
 
 Pour commencer, je veux crois qu tu a dejá installé node,npm et react framework, alors, passon à la première étape du développement.
 
